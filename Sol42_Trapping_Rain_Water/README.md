@@ -1,3 +1,9 @@
+## 🎮 Visualization
+
+I made a small interactive visualization to understand the two pointer approach.
+
+👉 [Open Visualization](visualization.html)
+
 LeetCode 42 - Trapping Rain Water
 
 Problem
