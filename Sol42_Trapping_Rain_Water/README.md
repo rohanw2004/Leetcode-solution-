@@ -2,7 +2,7 @@
 
 I made a small interactive visualization to understand the two pointer approach.
 
-👉 [Open Visualization][(visualization.html)](https://rohanw2004.github.io/Leetcode-solution-/Leetcode%2042/visualization.html)
+[👉 [Open Visualization][(visualization.html)](https://rohanw2004.github.io/Leetcode-solution-/Leetcode%2042/visualization.html)](https://rohanw2004.github.io/Leetcode-solution-/Sol42_Trapping_Rain_Water/visualization.html)
 
 LeetCode 42 - Trapping Rain Water
 
